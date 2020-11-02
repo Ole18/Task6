@@ -1,13 +1,11 @@
 public class Main {
     int x = 1;
 
-    int y = 2;
-
-    static void MyMethod3() {
-        System.out.println("three method");
+    static void MyMethod() {
+        System.out.println("one method");
     }
-
-    static void MyMethod4() {
-        System.out.println("four method");
+    static void MyMethod2() {
+        System.out.println("two method");
     }
 }
+
