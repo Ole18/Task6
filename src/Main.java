@@ -10,4 +10,6 @@ public class Main {
     static void MyMethod4() {
         System.out.println("four method");
     }
+
+    String One = "commit";
 }
