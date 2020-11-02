@@ -7,5 +7,9 @@ public class Main {
     static void MyMethod2() {
         System.out.println("two method");
     }
+
+    String One = "commit";
+    String Two = "commit";
+    String Three = "commit";
 }
 
